@@ -38,7 +38,7 @@ The system provides real-time monitoring and alerts to prevent drowsiness while 
 2. Install the required libraries:
     ```bash
     pip install opencv-python
-    pip install opencv-python-headless
+    pip install opencv
     pip install numpy
     pip install scikit-learn
     ```
